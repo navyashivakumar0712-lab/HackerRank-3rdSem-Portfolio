@@ -1,0 +1,4 @@
+// Read the time in 12-hour format
+// Check whether the time is AM or PM
+// Convert the hour to 24-hour format
+// Display the converted time
