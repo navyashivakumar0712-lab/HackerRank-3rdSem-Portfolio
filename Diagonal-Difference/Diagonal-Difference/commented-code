@@ -1,0 +1,4 @@
+// Read the size of the square matrix
+// Calculate the sum of the primary diagonal
+// Calculate the sum of the secondary diagonal
+// Find the absolute difference between the two sums
