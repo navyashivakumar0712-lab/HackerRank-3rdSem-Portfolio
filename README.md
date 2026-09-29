@@ -12,6 +12,8 @@ This repository contains my solutions to selected HackerRank problems completed 
 | 4 | Compare the Triplets | C++ |
 | 5 | Sparse Arrays | C++ |
 
+
+
 ## Solutions
 
 ### 1. Diagonal Difference
@@ -34,6 +36,27 @@ This repository contains my solutions to selected HackerRank problems completed 
 - Time Complexity: O(n × q)
 - Space Complexity: O(q)
 
+## Repository Structure
+
+```text
+HackerRank-3rdSem-Portfolio
+├── Diagonal-Difference
+│   └── commented-code
+│       └── solution.cpp
+├── Dynamic-Array
+│   └── commented-code
+│       └── solution.cpp
+├── Time-Conversion
+│   └── commented-code
+│       └── solution.cpp
+├── Compare-the-Triplets
+│   └── commented-code
+│       └── solution.cpp
+├── Sparse-Arrays
+│   └── commented-code
+│       └── solution.cpp
+└── README.md
+```
 ## Skills Practiced
 
 - C++ Programming
